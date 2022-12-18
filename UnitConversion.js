@@ -1,6 +1,3 @@
-//Unit Conversiona. 1ft = 12 in then 42 in = ? ft  b. Rectangular Plot of 60 feet x 40 feet in meters
-//c. Calculate area of 25 such plots in acres
-
 let inches =42;
 let inchesInFeet= (inches/12);
 console.log(" 42 inches in feet : " +inchesInFeet);

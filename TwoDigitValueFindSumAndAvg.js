@@ -1,5 +1,3 @@
-//4. Write a program that reads 5 Random 2 Digit values ,then find their sum and the average
-
 let num1= Math.floor(Math.random() *90 +10);
 let num2= Math.floor(Math.random() *90 +10);
 let num3= Math.floor(Math.random() *90 +10);
