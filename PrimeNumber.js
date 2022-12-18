@@ -1,6 +1,6 @@
 //3. Write a program that takes a input and determines if the number is a prime.
 
-let number = 11
+let number = 13
 for (let i = 0 ; i <= number ; i++) 
 {
     let numNotPrime = 0
